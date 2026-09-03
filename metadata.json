@@ -1,0 +1,12 @@
+{
+  "name": "rohiththeorbital",
+  "description": "Satellite communication and productivity platform with global constellation telemetry, encrypted comms, voice \u0026 video calling, and emergency override.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
